@@ -2,17 +2,16 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena
+ - Conférence : Votre mission ? Découvrir Haskell et le mettre en prod
+ - Horaire de la conférence : 14h30
+ - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
+   - [Céline Louvet](https://www.linkedin.com/in/celinelouvet/)(https://twitter.com/celine_louvet)(https://github.com/celinelouvet)
+ - Audience : ~ 50 personnes
+ - Auteur du billet : [Anass El Yaagoubi](https://github.com/A-EL-YAAGOUBI)(https://www.linkedin.com/in/anass-el-yaagoubi-248129127/)
+ - Mots-clés : Haskell, Programmation fonctionnelle
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
