@@ -4,21 +4,24 @@
 
  - Manifestation : CodeursEnSeine 2018
  - Lieu : Kindarena
- - Conférence : Votre mission ? Découvrir Haskell et le mettre en prod
+ - Conférence : **Votre mission ? Découvrir Haskell et le mettre en prod**
  - Horaire de la conférence : 14h30
  - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - [Céline Louvet](https://www.linkedin.com/in/celinelouvet/)(https://twitter.com/celine_louvet)(https://github.com/celinelouvet)
+   - [Céline Louvet](linkedin.com/in/celinelouvet/),  twitter.com/celine_louvet,  github.com/celinelouvet
  - Audience : ~ 50 personnes
- - Auteur du billet : [Anass El Yaagoubi](https://github.com/A-EL-YAAGOUBI)(https://www.linkedin.com/in/anass-el-yaagoubi-248129127/)
- - Mots-clés : Haskell, Programmation fonctionnelle
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - Auteur du billet : [Anass El Yaagoubi](github.com/A-EL-YAAGOUBI)
+ - Mots-clés : Haskell, Programmation fonctionnelle, Développement web
+ - URL de l'illustration : ![Haskell Logo](haskell-logo-png-transparent.png)
+   - quelques sources : wikipedia.org/wiki/Functional_programming, wikipedia.org/wiki/Haskell_(programming_language)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+ - Lien vers le support : slideshare.net/celine_louvet/haskell-en-prod-123943994
+ - Nombre de diapos du support : 95
+ - Plan du support : 
+   - Introduction
+   - Contexte et besoin
+   - Contraintes et critères de selection des technologies
 
 ## Résumé
 ...
