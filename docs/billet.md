@@ -13,7 +13,9 @@
  - Auteur du billet : [Anass El Yaagoubi](github.com/A-EL-YAAGOUBI)
  - Mots-clés : Haskell, Programmation fonctionnelle, Développement web
  - URL de l'illustration : ![Haskell Logo](haskell-logo-png-transparent.png)
-   - quelques sources : wikipedia.org/wiki/Functional_programming, wikipedia.org/wiki/Haskell_(programming_language)
+ - Sources :
+   - [Haskell](http://haskell.org)
+   - [Programmation fonctionnelle](wikipedia.org/wiki/Functional_programming) 
 
 ## Support
  - Lien vers le support : slideshare.net/celine_louvet/haskell-en-prod-123943994
@@ -22,9 +24,18 @@
    - Introduction
    - Contexte et besoin
    - Contraintes et critères de selection des technologies
+   - Comparaison des solutions éventuelles
+   - Besoins
+   - Intro Haskell
+   - Tests
+   - Production
+   - Performances
+   - Tutoriels 
+   - Bilan
+   - Q&A
 
 ## Résumé
-...
+TODO
 
 ## Architecture et facteur qualité
 ...
