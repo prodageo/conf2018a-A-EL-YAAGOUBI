@@ -49,4 +49,6 @@ Nous avons pu voir comment sont codés les différents composants d'une de leur 
 La fin de la présentation consiste en un bilan concernant le choix de Haskell suivit d'une session question réponse. Ce langage possède différents avantages, mais il n'est pas facile à prendre en main par les développeurs non-issus de la programmation fonctionnelle.
 
 ## Architecture et facteur qualité
-...
+Cette conférence traitait principalement le facteur fiabilité. Céline Louvet souhaitait avoir un système fiable et sécurisé. Le langage fonctionnel en question n'est pas aussi commun que par exemple le Java ou le PHP, elle nous montre donc les différentes briques de l'architecture de son système à base de Haskell. L'avantage d'utiliser un seul langage pour tout le système, c'est principalement le gain en homogénéité, car les composants étaient destinés à travaillé ensemble. En revanche, le système perd en flexibilité, car il faut se limité aux seuls choix disponibles (ceci peu être très difficile de se passer d'une techno juste parce que on ne veut pas introduire un autre langage dans la stack ...).
+
+Le typage fort, statique, et inféré de Haskell ainsi que ses autres qualités de langage fonctionnel (types de données, récursivité, compilateur, etc.) améliore grandement le critère fiabilité.
